@@ -1,9 +1,9 @@
 const cacheName = "Gorgonize Games-L-system for Fractals-0.1.0";
 const contentToCache = [
-    "Build/Yeni klasör.loader.js",
-    "Build/Yeni klasör.framework.js",
-    "Build/Yeni klasör.data",
-    "Build/Yeni klasör.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
